@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=int[]\ toDigits(int)
+comment1.params=n\ d
+comment1.target=int[]\ cancelDuplicates(int[],\ int[])
+comment2.params=n\ d
+comment2.target=boolean\ isDigitCancelling(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=public\ static\ void\ main(String[]\ args)\ {\r\n\ \ \ \ System.out.println(isDigitCancelling(35,\ 53));\r\n\ \ \ \ System.out.println(isDigitCancelling(49,\ 98));\r\n}
+numComments=4

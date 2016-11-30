@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ isPrime(long)
+comment1.params=i
+comment1.target=int[]\ toDigits(int)
+comment2.params=num
+comment2.target=boolean\ isPandigital(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

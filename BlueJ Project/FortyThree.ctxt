@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ factorial(int)
+comment1.params=i
+comment1.target=int[]\ toDigits(long)
+comment2.params=str
+comment2.target=java.lang.String[]\ permute(java.lang.String)
+comment3.params=n\ start\ end
+comment3.target=int\ getSubstringInt(long,\ int,\ int)
+comment4.params=i
+comment4.target=int\ getPrimeForIndex(int)
+comment5.params=n
+comment5.target=boolean\ satisfiesDivisibility(long)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

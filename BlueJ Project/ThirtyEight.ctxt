@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=int[]\ toDigits(int)
+comment1.params=products
+comment1.target=boolean\ isPandigital(int[])
+comment2.params=products
+comment2.target=boolean\ isValidInt(int[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

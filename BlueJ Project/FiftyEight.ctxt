@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int[]\ getStartIndex(int)
+comment1.params=direction\ i\ j
+comment1.target=int[]\ getIndexInDirection(int,\ int,\ int)
+comment2.params=n\ i\ j
+comment2.target=boolean\ lastRun(int,\ int,\ int)
+comment3.params=previousSpiral
+comment3.target=long[][]\ generateSpiralFromPreviousSpiral(long[][])
+comment4.params=n
+comment4.target=long[][]\ generateSpiral(int)
+comment5.params=n
+comment5.target=boolean\ isPrime(long)
+comment6.params=spiral
+comment6.target=double\ getFrequency(long[][])
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

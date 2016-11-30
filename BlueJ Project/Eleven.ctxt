@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=values
+comment0.target=void\ print2DArray(int[][])
+comment1.params=
+comment1.target=int[][]\ initializeGrid()
+comment2.params=grid\ i\ j
+comment2.target=int\ vProd(int[][],\ int,\ int)
+comment3.params=grid\ i\ j
+comment3.target=int\ hProd(int[][],\ int,\ int)
+comment4.params=grid\ i\ j
+comment4.target=int\ dProdRight(int[][],\ int,\ int)
+comment5.params=grid\ i\ j
+comment5.target=int\ dProdLeft(int[][],\ int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

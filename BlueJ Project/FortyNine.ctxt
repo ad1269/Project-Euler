@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int[]\ sieveOfEratosthenes(int)
+comment1.params=n
+comment1.target=boolean\ isPrime(int)
+comment2.params=i
+comment2.target=int[]\ toDigits(int)
+comment3.params=a1\ a2\ a3
+comment3.target=boolean\ isPermutation(int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

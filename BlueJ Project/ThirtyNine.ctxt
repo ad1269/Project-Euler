@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=boolean\ isValidTriangle(int,\ int,\ int)
+comment1.params=a\ b\ c\ p
+comment1.target=boolean\ isTriple(int,\ int,\ int,\ int)
+comment2.params=sides\ triplets
+comment2.target=boolean\ isDuplicate(java.lang.Integer[],\ java.util.ArrayList)
+comment3.params=p
+comment3.target=int\ getNumTriplets(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

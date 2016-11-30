@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ isPrime(int)
+comment1.params=n
+comment1.target=int[]\ generateFamily(int)
+comment2.params=n
+comment2.target=int\ getPrimeFamilyCount(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
